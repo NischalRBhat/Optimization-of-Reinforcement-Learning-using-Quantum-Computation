@@ -1,7 +1,5 @@
 # ⚛ Optimization of Reinforcement Learning with Quantum Computation ⚛
 
-![Project Logo](https://via.placeholder.com/728x90.png) <!-- Add a banner or logo here if needed -->
-
 ## 📖 Project Overview
 
 This project focuses on optimizing classical Reinforcement Learning (RL) techniques using Quantum Computation. We leverage Quantum algorithms, such as Variational Quantum Circuits (VQCs), to enhance learning in RL environments. The primary goal is to investigate how Quantum Computing can help achieve space optimization in terms of parameters and potentially allow better performance in complex environments.
