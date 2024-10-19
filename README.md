@@ -4,6 +4,8 @@
 
 This project focuses on optimizing classical Reinforcement Learning (RL) techniques using Quantum Computation. We leverage RL algorithms with quantum circuits, such as Variational Quantum Circuits (VQCs), to enhance learning in RL environments. The primary goal is to investigate how Quantum Computing can help achieve space optimization in terms of parameters and potentially allow better performance compared to classical approaches.
 
+---
+
 ## 🌎 Environments
 
 ### ❄ Frozen Lake Environment
