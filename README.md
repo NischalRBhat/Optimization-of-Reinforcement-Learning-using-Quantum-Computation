@@ -14,7 +14,7 @@ This environment involves navigating across a frozen lake without falling into h
 
 Cartpole is a classic environment where the goal is to balance a pole on a moving cart, perfect for testing control and RL algorithms.
 
-### 🌙 Lunar Lander Environment
+### 🚀 Lunar Lander Environment
 ![Lunar Lander](./Images/lunar_lander.gif)
 
 In the Lunar Lander environment, the agent must land a spaceship safely on the moon. It's great for more complex RL experiments with continuous actions.
@@ -41,7 +41,7 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 │   │   ├── Frozen Lake VQC Q Learning/
 │   │   └── rozen Lake Policy VQC-DQN/
 │   ├── Lunar Lander/                               # Lunar Lander Implementation Directory
-│   │   ├── Lunar Lander Advantage Actor Critic
+│   │   ├── Lunar Lander Advantage Actor Critic/
 │   │   └── Lunar Lander Policy VQC-DQN/
 │   └── requirements.txt                            # Requirements file
 ├── Images/                                         # Images Compilation          
@@ -49,7 +49,7 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 
 ```
 
-## Package installation instructions
+## 💻 Package installation instructions
 
 1. **Clone the repository**:
 
