@@ -51,7 +51,7 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 
 ```bash
 git clone https://github.com/NischalRBhat/Optimization-of-Reinforcement-Learning-using-Quantum-Computation.git
-cd Optimization-of-Reinforcement-Learning-using-Quantum-Computation.git
+cd Optimization-of-Reinforcement-Learning-using-Quantum-Computation
 ```
 
 2. **Create a Virtual Environment (optional)**:
