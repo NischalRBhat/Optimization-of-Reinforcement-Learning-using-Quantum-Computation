@@ -42,3 +42,40 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 │   ├── Lunar Lander/
 ├── Images/                                         # Images Compilation          
 └── README.md                  # Project description and instructions
+
+```
+
+## Package installation instructions
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/NischalRBhat/Optimization-of-Reinforcement-Learning-using-Quantum-Computation.git
+cd Optimization-of-Reinforcement-Learning-using-Quantum-Computation.git
+```
+
+2. **Create a Virtual Environment (optional)**:
+
+```bash
+
+# For Windows
+python -m venv env
+env\Scripts\activate
+
+# For macOS/Linux
+python3 -m venv env
+source env/bin/activate
+```
+
+3. **Install the depecendencies**:
+
+```bash
+pip install -r Code/requirements.txt
+```
+
+4. **Install the dependencies**:
+
+```bash
+import qml, torch, gym, tqdm, qiskit, imageio, numpy, matplotlib
+print(qml.__version__, torch.__version__, gym.__version__)
+

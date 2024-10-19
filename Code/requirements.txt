@@ -1,0 +1,9 @@
+PennyLane==0.28.0
+torch==1.13.1+cpu
+gym==0.26.2
+tqdm==4.66.1
+qiskit==0.45.1
+imageio==2.31.6
+numpy==1.23.5
+matplotlib==3.8.0
+python_version==3.10.8
