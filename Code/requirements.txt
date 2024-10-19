@@ -1,4 +1,4 @@
-PennyLane==0.28.0
+pennylane==0.28.0
 torch==1.13.1+cpu
 gym==0.26.2
 tqdm==4.66.1

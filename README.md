@@ -71,15 +71,15 @@ python3 -m venv env
 source env/bin/activate
 ```
 
-3. **Install the depecendencies**:
+3. **Install the dependencies**:
 
 ```bash
 pip install -r Code/requirements.txt
 ```
 
-4. **Install the dependencies**:
+4. **Verify the installation**:
 
 ```python
-import qml, torch, gym, tqdm, qiskit, imageio, numpy, matplotlib
-print(qml.__version__, torch.__version__, gym.__version__)
+import pennylane, torch, gym, tqdm, qiskit, imageio, numpy, matplotlib
+print(pennylane.__version__, torch.__version__, gym.__version__, tqdm.__version__, qiskit.__version__,imageio.__version__, numpy.__version__, matplotlib.__version__)
 ```
