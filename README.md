@@ -83,7 +83,7 @@ source env/bin/activate
 pip install -r Code/requirements.txt
 ```
 
-4. **Verify the installation**:
+4. **Verify the installation (Optional)**:
 
 ```python
 import pennylane, torch, gym, tqdm, qiskit, imageio, numpy, matplotlib
