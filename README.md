@@ -4,6 +4,8 @@
 
 This project focuses on optimizing classical Reinforcement Learning (RL) techniques using Quantum Computation. We leverage RL algorithms with quantum circuits, such as Variational Quantum Circuits (VQCs), to enhance learning in RL environments. The primary goal is to investigate how Quantum Computing can help achieve space optimization in terms of parameters and potentially allow better performance compared to classical approaches.
 
+## 🌎 Environments
+
 ### ❄ Frozen Lake Environment
 ![Frozen Lake](./Images/frozen_lake.gif)
 
@@ -19,12 +21,12 @@ Cartpole is a classic environment where the goal is to balance a pole on a movin
 
 In the Lunar Lander environment, the agent must land a spaceship safely on the moon. It's great for more complex RL experiments with continuous actions.
 
+---
+
 ## 🔍 Key Features:
 - Background information on Classical RL and Quantum Computation
 - Literature Survey on Existing approaches to QRL
 - Implementation of Quantum-enhanced RL using VQC for various OpenAI gym environments.
-- Comparative analysis between Classical RL and Quantum RL.
-- Performance evaluation using rewards and parameter space optimization.
 
 ---
 
@@ -48,6 +50,8 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 └── README.md                                       # Project description and instructions
 
 ```
+
+---
 
 ## 💻 Package installation instructions
 
