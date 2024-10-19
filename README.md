@@ -38,8 +38,13 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 │   ├── Literature Survery.ipynb/
 ├── Code/                              # Survey on Existing Literature
 │   ├── Cart Pole/
+│   │   ├── Cart Pole Policy VQC-DQN/
 │   ├── Frozen Lake/
+│   │   ├── Frozen Lake VQC Q Learning/
+│   │   ├── rozen Lake Policy VQC-DQN/
 │   ├── Lunar Lander/
+│      ├── Lunar Lander Advantage Actor Critic
+│      ├── Lunar Lander Policy VQC-DQN/
 ├── Images/                                         # Images Compilation          
 └── README.md                  # Project description and instructions
 
