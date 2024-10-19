@@ -33,20 +33,19 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 ```bash
 .
 ├── Background_Knowledge/                           # Background Knowledge on Topics
-│   ├── Background Knowledge.ipynb/ 
 ├── Literature_Survey/                              # Survey on Existing Literature
-│   ├── Literature Survery.ipynb/
-├── Code/                              # Survey on Existing Literature
-│   ├── Cart Pole/
-│   │   ├── Cart Pole Policy VQC-DQN/
-│   ├── Frozen Lake/
+├── Code/                                           # Survey on Existing Literature
+│   ├── Cart Pole/                                  # Cart Pole Implementation Directory
+│   │   └── Cart Pole Policy VQC-DQN/
+│   ├── Frozen Lake/                                # Frozen Lake Implementation Directory
 │   │   ├── Frozen Lake VQC Q Learning/
-│   │   ├── rozen Lake Policy VQC-DQN/
-│   ├── Lunar Lander/
-│      ├── Lunar Lander Advantage Actor Critic
-│      ├── Lunar Lander Policy VQC-DQN/
+│   │   └── rozen Lake Policy VQC-DQN/
+│   ├── Lunar Lander/                               # Lunar Lander Implementation Directory
+│   │   ├── Lunar Lander Advantage Actor Critic
+│   │   └── Lunar Lander Policy VQC-DQN/
+│   └── requirements.txt                            # Requirements file
 ├── Images/                                         # Images Compilation          
-└── README.md                  # Project description and instructions
+└── README.md                                       # Project description and instructions
 
 ```
 
