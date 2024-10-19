@@ -79,7 +79,7 @@ pip install -r Code/requirements.txt
 
 4. **Install the dependencies**:
 
-```bash
+```python
 import qml, torch, gym, tqdm, qiskit, imageio, numpy, matplotlib
 print(qml.__version__, torch.__version__, gym.__version__)
-
+```
