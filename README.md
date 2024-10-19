@@ -35,6 +35,10 @@ In the Lunar Lander environment, the agent must land a spaceship safely on the m
 ├── Background_Knowledge/                           # Background Knowledge on Topics
 │   ├── Background Knowledge.ipynb/ 
 ├── Literature_Survey/                              # Survey on Existing Literature
-│   ├── Literature Survery.ipynb/                  
+│   ├── Literature Survery.ipynb/
+├── Code/                              # Survey on Existing Literature
+│   ├── Cart Pole/
+│   ├── Frozen Lake/
+│   ├── Lunar Lander/
 ├── Images/                                         # Images Compilation          
 └── README.md                  # Project description and instructions
