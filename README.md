@@ -8,9 +8,11 @@ This repository is developed as part of our research work and is associated with
 
 **Optimization of Reinforcement Learning Using Quantum Computation**  
 Roopa Ravish; Nischal R. Bhat; N. Nandakumar; S. Sagar; Sunil; Prasad B. Honnavalli
+
 Published in IEEE Access Volume 12, 2024
 
 For more details, please refer to the paper: [Read the paper here](https://github.com/NischalRBhat/Optimization-of-Reinforcement-Learning-using-Quantum-Computation)
+
 If you use this project in your research, please consider citing our paper.
 
 ---
