@@ -4,6 +4,15 @@
 
 This project focuses on optimizing classical Reinforcement Learning (RL) techniques using Quantum Computation. We leverage RL algorithms with quantum circuits, such as Variational Quantum Circuits (VQCs), to enhance learning in RL environments. The primary goal is to investigate how Quantum Computing can help achieve space optimization in terms of parameters and potentially allow better performance compared to classical approaches.
 
+This repository is developed as part of our research work and is associated with the research paper:  
+
+**Optimization of Reinforcement Learning Using Quantum Computation**  
+Roopa Ravish; Nischal R. Bhat; N. Nandakumar; S. Sagar; Sunil; Prasad B. Honnavalli
+Published in IEEE Access Volume 12, 2024
+
+For more details, please refer to the paper: [Read the paper here](https://github.com/NischalRBhat/Optimization-of-Reinforcement-Learning-using-Quantum-Computation)
+If you use this project in your research, please consider citing our paper.
+
 ---
 
 ## 🌎 Environments
